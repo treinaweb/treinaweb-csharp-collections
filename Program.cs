@@ -1,0 +1,3 @@
+﻿using CShapCollections;
+
+AulaArrays.main();

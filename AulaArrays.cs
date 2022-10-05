@@ -1,4 +1,4 @@
-namespace CShapCollections;
+namespace CSharpCollections;
 
 public class AulaArrays
 {
